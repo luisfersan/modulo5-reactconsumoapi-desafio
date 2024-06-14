@@ -47,7 +47,6 @@ const MiApi = () => {
       country.name.common.toLowerCase().includes(criteria.toLowerCase())
     );
     // Estableciendo los datos filtrados en el estado.
-    // Estableciendo los datos ordenados en el estado.
     setFilteredCountries(filtered);
   };
 
@@ -90,6 +89,7 @@ const MiApi = () => {
               <div className="card-body d-flex flex-column">
                 {/* Mostrando el nombre del país. */}
                 <h5 className="card-title">{country.name.common}</h5>
+                <p className="card-text">Official Name: {country.name.official}</p>
               </div>
             </div>
           </div>
