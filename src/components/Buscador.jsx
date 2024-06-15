@@ -36,8 +36,18 @@ const Buscador = ({ onFilter, onSort }) => {
           className="form-select"
           onChange={handleSortChange}
         >
-          <option value="asc">Sort A-Z</option>
-          <option value="desc">Sort Z-A</option>
+          <option
+            value="asc"
+            border="black"
+          >
+            Sort A-Z
+          </option>
+          <option
+            value="desc"
+            border="black"
+          >
+            Sort Z-A
+          </option>
         </select>
       </div>
     </div>

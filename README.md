@@ -32,3 +32,5 @@ Consumo de APIs con hook useEffect. Utilizaremos el hook useEffect para controla
 
 Sígueme en mis redes sociales: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-sanchez-f-67369b2b)[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/luisfersan)
 <br>
+
+## Puede ver el video de demostración de este PY, [aquí:](./src/assets/video/)
