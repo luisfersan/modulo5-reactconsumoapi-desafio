@@ -84,12 +84,14 @@ const MiApi = () => {
                 src={country.flags.png}
                 className="card-img-top"
                 alt={country.name.common}
-                style={{ height: "200px", objectFit: "cover" }}
+                style={{ height: "250px", objectFit: "cover" }}
               />
               <div className="card-body d-flex flex-column">
                 {/* Mostrando el nombre del país. */}
                 <h5 className="card-title">{country.name.common}</h5>
-                <p className="card-text">Official Name: {country.name.official}</p>
+                <p className="card-text">
+                  Official Name: {country.name.official}
+                </p>
               </div>
             </div>
           </div>

@@ -1,0 +1,23 @@
+/* src/App.css */
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 300vh;
+  background-color: #f8f9fa;
+}
+
+.app-header {
+  background-color: #343a40;
+  color: white;
+  padding: 2rem 0;
+}
+
+.app-main {
+  flex: 1;
+  padding: 2rem 0;
+}
+
+.app-footer {
+  background-color: #343a40;
+  color: white;
+}
