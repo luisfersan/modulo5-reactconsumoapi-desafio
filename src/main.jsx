@@ -2,6 +2,8 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
+
+// Importando componente App.
 import App from "./App.jsx";
 import "bootstrap/dist/css/bootstrap.min.css";
 
