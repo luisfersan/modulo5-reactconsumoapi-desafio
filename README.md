@@ -1,8 +1,34 @@
-# React + Vite
+# Módulo 5 REACT I - Desafío 4 - Consumo API React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Presentación Landing Page
 
-Currently, two official plugins are available:
+![Presentación Página Web](./src/assets/img/PresentacionPag.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## <br/>
+
+<br/>
+
+## Descripción del PY ⌨️
+
+Consumo de APIs con hook useEffect. Utilizaremos el hook useEffect para controlar efectos secundarios en aplicaciones react. Aplicaremos useEffect para el consumo de información proveniente de una API.
+
+## Tecnologías Usadas 🛠️
+
+- **HTML** 💀
+- **CSS** 🎆
+- **JS** 🧑‍💻
+- **REACT JS** 👌
+- **React-Bootstrap** 📚
+
+<br/>
+
+---
+
+<br>
+
+## Autor 👨‍💻
+
+**Desarrollador FullStack G-60 - Luis Fernando Sanchez F.⚡**
+
+Sígueme en mis redes sociales: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-sanchez-f-67369b2b)[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/luisfersan)
+<br>
